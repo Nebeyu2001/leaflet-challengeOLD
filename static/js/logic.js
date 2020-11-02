@@ -67,7 +67,7 @@ d3.json(link,function(data) {
              "#ffcca5";
   }
 
-  //Change the maginutde of the earthquake by a factor of 25,000 for the radius of the circle. 
+  //Change the maginutde of the earthquake. 
   function useRadius(value){
     return value*5
   }
